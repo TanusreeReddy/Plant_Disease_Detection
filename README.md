@@ -276,8 +276,8 @@ LinkedIn: www.linkedin.com/in/tanusree-reddy-baswa
 
 ## 🔗 Links
 
-- [Project Report (IEEE Format)](docs/IEEE_Paper.pdf)
-- [Presentation Slides](docs/Presentation.pptx)
+- [Project Report (IEEE Format)](https://docs.google.com/document/d/1jLb_0I0bQJGKInh-GLw7eOKGZh0cXM3iUla5eTSJ6ko/edit?usp=sharing)
+- [Presentation Slides]([docs/Presentation.pptx](https://www.canva.com/design/DAG66w5JD4U/MIkOosIUPKIFbsvpgi5hdQ/edit?utm_content=DAG66w5JD4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 - [Dataset Download](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 
 ---
