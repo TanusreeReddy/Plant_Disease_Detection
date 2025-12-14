@@ -210,7 +210,7 @@ This project is documented in an IEEE-format research paper including:
 - Deployment considerations
 - Future work directions
 
-📄 **[Read Full Paper](docs/IEEE_Paper.pdf)**
+📄 **[Read Full Paper](https://docs.google.com/document/d/1jLb_0I0bQJGKInh-GLw7eOKGZh0cXM3iUla5eTSJ6ko/edit?usp=sharing)**
 
 ## 💡 Key Findings
 
@@ -255,7 +255,7 @@ If you use this work, please cite:
 @misc{reddy2024plantdisease,
   author = {Baswa Tanusree Reddy},
   title = {Automated Plant Disease Detection Using Deep Learning: A Comparative Study},
-  year = {2024},
+  year = {2025},
   institution = {Indian Institute of Information Technology, Raichur},
   howpublished = {\url{https://github.com/YOUR_USERNAME/plant-disease-detection}}
 }
@@ -265,18 +265,14 @@ If you use this work, please cite:
 
 **Baswa Tanusree Reddy**  
 Indian Institute of Information Technology, Raichur  
-Email: [Your Email]  
-LinkedIn: [Your LinkedIn]
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Email: tanusreereddybaswa@gmail.com  
+LinkedIn: www.linkedin.com/in/tanusree-reddy-baswa
 
 ## 🙏 Acknowledgments
 
 - PlantVillage project for providing the dataset
 - Indian Institute of Information Technology, Raichur for computational resources
-- [Faculty Name] for guidance and supervision
+- Dr. Natesh B V (https://www.linkedin.com/in/dr-natesha-b-v-45105598/) for guidance and supervision
 
 ## 🔗 Links
 
